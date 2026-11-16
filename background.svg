@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1080" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f1f5fb"/>
+      <stop offset="1" stop-color="#e3ebf3"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1920v1080H0z"/>
+  <circle cx="1510" cy="245" r="100" fill="#f8f4e9"/>
+  <g stroke="#cbd6e3" stroke-width="3" stroke-linecap="round" opacity=".6">
+    <path d="M200 230h180m-135 20h85M1630 365h160m-130 24h75"/>
+    <path d="m1380 180 10-5 10 5m20 8 10-5 10 5"/>
+  </g>
+  <path d="m0 660 210-175 180 135 250-240 260 260 260-220 210 185 215-230 335 295v410H0Z" fill="#dce5ef"/>
+  <path d="m0 810 270-240 250 220 240-160 245 195 270-235 290 205 200-160 155 120v325H0Z" fill="#cedbe7"/>
+  <path d="M0 900q250-120 480 0t500-15 510 0 430-15v210H0Z" fill="#becfdc" opacity=".65"/>
+  <g fill="#acbfcb" opacity=".6">
+    <path d="m90 810-32 75h16l-28 50h34v52h20v-52h34l-28-50h16Z"/>
+    <path d="m165 870-23 55h12l-20 37h24v38h14v-38h24l-20-37h12Z"/>
+    <path d="m1770 825-32 75h16l-28 50h34v52h20v-52h34l-28-50h16Z"/>
+    <path d="m1840 880-23 55h12l-20 37h24v38h14v-38h24l-20-37h12Z"/>
+  </g>
+</svg>
